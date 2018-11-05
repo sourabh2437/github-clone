@@ -1,0 +1,116 @@
+.App {
+  text-align: center;
+}
+.custom-nav{
+  border-radius: 0px;
+  height:60px;
+  padding-top:5px;
+  padding-bottom:10px;
+}
+.github-icon{
+  width:30px;
+  height: 40px;
+  padding-bottom: 15px;
+}
+.card-container{
+  margin:5px;
+  text-align: left;
+}
+.size{
+  margin-bottom:5px;
+  margin-right: 5px;
+}
+.size-2{
+  margin-bottom:50px;
+  margin-right: 5px;
+}
+.user-img{
+  width:230px;
+  height:230px;
+  border-radius: 6px;
+}
+.user-title{
+  font-size: 25px;
+  font-weight: bold;
+  text-align: left;
+}
+.user-subtitle{
+  font-size: 20px;
+  font-weight:normal;
+  text-align: left;
+}
+.user-card-body{
+
+}
+.repo_container{
+  text-align: left;
+}
+.repo_title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.repo_details{
+  margin-top:10px;
+}
+.repo_last_updated_on{
+  margin-left: 20px;
+  font-size: 12px;
+}
+.dotJavaScript {
+  height: 12px;
+  width: 12px;
+  margin-right: 5px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotPython {
+  height: 10px;
+  width: 10px;
+  margin-right: 5px;
+  background-color: #47519b;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotCSS {
+  height: 10px;
+  width: 10px;
+  margin-right: 5px;
+  background-color: #2c0463;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotHTML{
+  height: 10px;
+  width: 10px;
+  margin-right: 5px;
+  background-color: #d32323;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dotCPP {
+  height: 10px;
+  width: 10px;
+  margin-right: 5px;
+  background-color: #c41d79;
+  border-radius: 50%;
+  display: inline-block;
+}
+.search_repo{
+  margin-top:10px;
+  width:50%;
+}
+.type_filter{
+  margin-top:10px;
+  margin-left: 5px;
+  background-color: #f4f4f4;
+}
+.language_filter{
+  margin-top:10px;
+  margin-left: 10px;
+  background-color: #f4f4f4;
+}
+.new_btn{
+    margin-top:10px;
+    margin-left: 5px;
+}
